@@ -1,0 +1,10 @@
+.menuText-container{
+    display: flex;
+    list-style: none;
+}
+
+.menuText-container li{
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-right: 40px;
+}

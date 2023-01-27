@@ -1,0 +1,11 @@
+.benefits-container{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 25px;
+}
+
+.benefits-container li{
+    margin: 20px;
+}

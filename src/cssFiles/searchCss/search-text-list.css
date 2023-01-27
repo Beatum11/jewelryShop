@@ -1,0 +1,13 @@
+.searchText-container{
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+.searchText-container li{
+    margin-right: 50px;
+}
+
+.searchText-container li:hover{
+    cursor: pointer;
+}

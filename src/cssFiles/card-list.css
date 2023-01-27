@@ -1,0 +1,9 @@
+.cardList-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.cardList-container li{
+    margin: 20px;
+}

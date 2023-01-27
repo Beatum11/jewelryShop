@@ -1,0 +1,25 @@
+.card-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 350px;
+}
+
+.card-container img{
+    width: 262px;
+    height: 262px;
+    object-fit: cover;
+}
+
+.card-container p{
+    margin-top: 0px;
+    margin-bottom: 4px;
+}
+
+.card-description{
+    font-size: large;
+}
+
+.card-price{
+    color: #008060;
+}

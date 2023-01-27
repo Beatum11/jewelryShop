@@ -1,0 +1,11 @@
+.menu-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+/* .menu-container h1{
+    margin-right: auto;
+    margin-left: auto;
+} */

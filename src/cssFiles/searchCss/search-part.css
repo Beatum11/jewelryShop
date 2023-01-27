@@ -1,0 +1,17 @@
+.searchPart-container{
+    max-height: 15vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.searchPart-container input{
+    height: 30px;
+    width: 220px;
+}
+
+.searchPart-container button{
+    height: 35px;
+}
